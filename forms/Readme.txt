@@ -1,2 +1,2 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
+Website Author: Amit Rana
+Author Profile: https://www.quora.com/profile/Amit-Kumar-46771

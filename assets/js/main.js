@@ -1,9 +1,6 @@
-/**
-* Template Name: Day - v2.0.0
-* Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+// Website Author: Amit Rana
+// Author Profile: https://www.quora.com/profile/Amit-Kumar-46771
+
 !(function($) {
   "use strict";
 
